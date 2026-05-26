@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="card">
+    <view class="title">brand</view>
+    <text>brand 页面已初始化，待按模板接入真实布局与数据。</text>
+  </view>
+</view>
